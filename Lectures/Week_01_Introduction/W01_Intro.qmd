@@ -1,0 +1,61 @@
+---
+title: "PSY4062 <br> Open Science"
+subtitle: "Week 01: Introduction"
+title-slide-attributes:
+    data-background-image: ../../images/MDX_logo.jpg
+    data-background-size: 30%
+    data-background-position: 50% 15%
+format: 
+  revealjs:
+#    smaller: true
+    center: true
+#    ratio: "16:9"
+    theme: [default, ../slides_custom.scss]
+    width: 1050
+    height: 700
+#    embed-resources: true
+---
+
+## Module Leader
+
+-  Dr Stephen Nunn
+    -  s.nunn@mdx.ac.uk; TG39
+        -  <https://calendly.com/s-nunn/15mins>
+    -  Director of Programmes
+    -  [Interests:]{.blue} cognitive science, methodology/philosophy of science
+
+---
+
+::: {.r-fit-text}
+What is Open Science?  
+Why am I studying it?
+
+:::
+
+## What is Open Science?
+
+-  aka Science Reform Movement
+    -  Not necessarily a single coherent movement
+-  Aiming to to change the way science is done
+    -  Planned, performed, shared, scrutinised, published, interpreted
+-  To make it more transparent and trustworthy
+
+## Why am I studying it?
+
+-  Changes to practice are on-going
+    -  Contested, negotiated, 
+    -  Equip you to navigate changing landscape
+-  Implies changes to how evidence is evaluated
+    -  Familiarise you with new criteria/considerations
+-  New/additional skills and tools
+
+## What Kind of Module is This?
+
+-  Unusual
+-  Part
+    -  Philosophy of Science
+    -  Methods
+    -  Professional/Academic Skills
+
+
+
