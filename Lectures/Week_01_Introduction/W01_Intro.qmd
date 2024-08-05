@@ -57,5 +57,25 @@ Why am I studying it?
     -  Methods
     -  Professional/Academic Skills
 
+## Video
+
+::: {.r-fit-text}
+<https://www.ted.com/talks/naomi_oreskes_why_we_should_trust_scientists>
+:::
+
+## Why we should NOT trust scientists
+
+-  No “scientific method” that guarantees truth of scientific claims
+    -  “Textbook method” not correct
+        -  Affirming the consequent
+            - Cf. Popper’s falsificationism
+        -  Auxiliary hypotheses
+        -  Much of science doesn’t follow it
+
+## Why we should NOT trust scientists
+
+-  “Truth” of scientific claims rests on 
+    -  Appeal to authority (albeit collective)
+    -  Consensus
 
 
